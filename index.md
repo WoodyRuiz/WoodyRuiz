@@ -30,6 +30,7 @@ clarifying their logic (Java, Batch, Shell, HTML, CSS, PHP, SQL).
     *   Teaching the relevance and use of file transfer applications like SecPanel and WinSCP.
     *   Ensuring students understand how to accomplish their task.
 
+
 *     GBS International: Call Center Representative   8/15 – 1/16
       *     Informed club members of their various options by quickly maneuvering reservation software,
 increasing revenue.
