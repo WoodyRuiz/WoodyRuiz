@@ -3,8 +3,8 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-### Small image
-![Octocat2](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+<center>![Octocat2](https://assets-cdn.github.com/images/icons/emoji/octocat.png)</center>
 
 [Link to another page](./another-page.html).
 
