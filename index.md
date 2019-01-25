@@ -29,11 +29,7 @@ clarifying their logic (Java, Batch, Shell, HTML, CSS, PHP, SQL).
     *   Demonstrating and explaining the importance and power of virtualization.
     *   Teaching the relevance and use of file transfer applications like SecPanel and WinSCP.
     *   Ensuring students understand how to accomplish their task.
-<!--
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
--->
+
 ### Header 3
 
 ```js
