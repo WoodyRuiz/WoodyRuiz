@@ -1,18 +1,12 @@
 ---
 layout: default
 ---
-
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-
-  ![Octocat2](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-
 [Link to another page](./another-page.html).
-
 There should be whitespace between paragraphs.
-
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+-->
 
 # Education
 
@@ -26,12 +20,20 @@ There should be whitespace between paragraphs. We recommend including a README, 
     *   Highest Honors
     *   Dean’s List
 
-## Header 2
+# Experience
 
+*   FIU Information Technology Programming Tutor/Proctor/Grader   3/18 - Present
+    *   Tutoring and engaging students to code in Java, Shell, and Batch effectively by inquiring and
+clarifying their logic (Java, Batch, Shell, HTML, CSS, PHP, SQL).
+    *   Conducting A+ 901, 902 and hands-on-hardware workshops.
+    *   Demonstrating and explaining the importance and power of virtualization.
+    *   Teaching the relevance and use of file transfer applications like SecPanel and WinSCP.
+    *   Ensuring students understand how to accomplish their task.
+<!--
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
+-->
 ### Header 3
 
 ```js
