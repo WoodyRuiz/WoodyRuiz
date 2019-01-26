@@ -44,9 +44,11 @@ calls.
 
 # Projects
 * * *
+  * Recreated 1st generation PokeDex in Java.
+  
 ![PokeDex](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/PokeDex.png)
 
-  * [PokeDex](https://github.com/WoodyRuiz/PokeDex)
+  * Repository for the [PokeDex](https://github.com/WoodyRuiz/PokeDex)
 
 
 # Programming Languages
