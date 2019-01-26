@@ -11,9 +11,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Education
 
 *  Florida International University, Miami, FL
-    *    B.S. in Information Technology Software
-    *    GPA: 3.717
-    *    Dean's List
+    *    B.S. in Information Technology Software.
+    *    GPA: 3.717.
+    *    Dean's List.
 
 
 
