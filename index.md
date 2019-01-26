@@ -44,7 +44,7 @@ calls.
 
 # Projects
 * * *
-![PokeDex](https://github.com/WoodyRuiz/WoodyRuiz/blob/gh-pages/PokeDex.png)
+![PokeDex](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/PokeDex.png)
 
   * [PokeDex](https://github.com/WoodyRuiz/PokeDex)
 
