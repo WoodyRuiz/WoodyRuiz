@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
     *    B.S. in Information Technology Software
     *   GPA: 3.717
     * Dean's List
+
 *   Miami Dade College, Miami, FL
     *   A.A. in Computer Information Systems
     *   GPA: 3.72
