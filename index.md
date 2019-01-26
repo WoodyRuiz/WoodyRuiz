@@ -11,9 +11,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Education
 
 ## Florida International University, Miami, FL
-    *    B.S. in Information Technology Software
-    *    GPA: 3.717
-    *    Dean's List
+   *  B.S. in Information Technology Software
+   *  GPA: 3.717
+   *  Dean's List
     
 ##  Miami Dade College, Miami, FL
    *  A.A. in Computer Information Systems
@@ -24,7 +24,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Experience
 
 ## FIU Information Technology Programming Tutor/Proctor/Grader   3/18 - Present
-    *   Tutoring and engaging students to code in Java, Shell, and Batch effectively by inquiring and
+   *  Tutoring and engaging students to code in Java, Shell, and Batch effectively by inquiring and
 clarifying their logic (Java, Batch, Shell, HTML, CSS, PHP, SQL).
     *   Conducting A+ 901, 902 and hands-on-hardware workshops.
     *   Demonstrating and explaining the importance and power of virtualization.
