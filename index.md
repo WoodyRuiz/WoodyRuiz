@@ -54,7 +54,7 @@ calls.
   * Created a website that takes user data (many different input types) and stores/modifies/deletes it in a SQL database.
   * Provided an 'Email Me' section of the website for users to provide feedback, which will send me an email straight from the website.
   
-![Website](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/Website.png)
+![Website](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/web.png)
 
   * Check it out [here](http://ocelot.aul.fiu.edu/~aruiz242/includes/program5.php)
   
