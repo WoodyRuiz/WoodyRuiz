@@ -24,7 +24,21 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Experience
 * * *
-## Addigy IT Automation Support Engineer   06/2019 - 09/2019
+## Ultimate Software Network Operations Center Engineer 10/2019 - Present
+   *  Proactive monitoring of production and development systems with a sense of urgency
+when issues arise: environment consists of several thousand production systems and
+nodes.
+   *  Issue-driven communication to ensure active engagement by escalation staff and timely
+and effective updates to management.
+   *  Build reports and perform trend analysis of system and application events.
+   *  Provide customer support and escalation for our client base.
+   *  Perform post-change product functionality testing.
+   *  Troubleshoot application and infrastructure related incidents.
+   *  Execute planned changes.
+   *  Execute automated tasks via scripting: including remediation and testing.
+   *  Problem analysis and remediation.
+
+## Addigy IT Automation Support Engineer   06/2019 - 10/2019
    *  Facilitated remote automation management of Apple devices for various companies via
 Bash scripting
    *  Ensuring the end-user’s workflow is not interrupted.
@@ -60,6 +74,10 @@ calls.
   * Repository for the [PokeDex](https://github.com/WoodyRuiz/PokeDex)
 
 * * *
+   * Created a webscraper in Python for personal learning purposes.
+   * This python program iterates through a list of strings (URLs) that are used to visit multiple similarly built webpages to then retrieve information and images.
+   * Repository for the [Web-scraper](https://github.com/WoodyRuiz/Web-Scraper)
+* * *
   * Created a website that takes user data (many different input types) and stores/modifies/deletes it in a SQL database.
   * Provided an 'Email Me' section of the website for users to provide feedback, which will send me an email straight from the website.
   
@@ -71,6 +89,7 @@ calls.
 * * *
 * Java
 * Python
+* Visual Basic
 * C
 * C++
 * Html
