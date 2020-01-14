@@ -77,6 +77,7 @@ calls.
    * Created a webscraper in Python for personal learning purposes.
    * This python program iterates through a list of strings (URLs) that are used to visit multiple similarly built webpages to then retrieve information and images.
    * Repository for the [Web-scraper](https://github.com/WoodyRuiz/Web-Scraper)
+   
 * * *
   * Created a website that takes user data (many different input types) and stores/modifies/deletes it in a SQL database.
   * Provided an 'Email Me' section of the website for users to provide feedback, which will send me an email straight from the website.
