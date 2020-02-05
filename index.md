@@ -94,6 +94,8 @@ calls.
 ## Traffic-dodger Game
   * Created a 2D traffic-dodger game using Python.
   * Scores are kept in an SQLite database inwhich scores can be seen from the "leaderboards" menu.
+  * Since Pygame does not have built-in button functionality, a button function was created. These button functions have event listeners that keep track of the mouse and change color when hovered over.
+  * Car objects were created in Adobe Photoshop.
   
 ![Main Menu](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/BitRace_Main_Menu.png)
 
