@@ -90,10 +90,15 @@ calls.
 
   * Check it out [here](http://ocelot.aul.fiu.edu/~aruiz242/includes/program5.php)
   
-  ***
-  ## Traffic-dodger Game
+* * *
+## Traffic-dodger Game
   * Created a 2D traffic-dodger game using Python.
   * Scores are kept in an SQLite database inwhich scores can be seen from the "leaderboards" menu.
+  
+![Main Menu](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/BitRace_Main_Menu.png)
+
+![Leaderboard](https://raw.githubusercontent.com/WoodyRuiz/WoodyRuiz/gh-pages/BitRacer_Leaderboard.png)
+
   * Repository for the [Traffic-Dodger Game](https://github.com/WoodyRuiz/BitRacer)
   
 # Programming Languages
