@@ -13,7 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Florida International University, Miami, FL
    *  B.S. in Information Technology Software
    *  Expected gradutaion date: April 2020
-   *  GPA: 3.776
+   *  GPA: 3.800
+   *  Magna Cum Laude
    *  Dean's List
     
 ##  Miami Dade College, Miami, FL
@@ -25,18 +26,20 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Experience
 * * *
 ## Ultimate Software Network Operations Center Engineer 10/2019 - Present
-   *  Proactive monitoring of production and development systems with a sense of urgency
-when issues arise: environment consists of several thousand production systems and
-nodes.
-   *  Issue-driven communication to ensure active engagement by escalation staff and timely
-and effective updates to management.
+   *  Utilizing various monitoring tools (Squared Up, Smart Bear’s Alertsite and IPHost) for
+production/test/demo environments to generate tickets to Jira when a threshold/anomaly
+is detected.
+   *  Filter through the various queues on Jira to determine when a real issue is occurring to
+begin proactive/reactive remediation or escalation to proper teams.
+   *  Properly engaging necessary resources dependent on escalation procedures based on
+issue/ticket severity.
+   *  Using Everbridge to efficiently send out communications to clients and management
+within SLA time restraints.
    *  Build reports and perform trend analysis of system and application events.
-   *  Provide customer support and escalation for our client base.
    *  Perform post-change product functionality testing.
-   *  Troubleshoot application and infrastructure related incidents.
-   *  Execute planned changes.
+   *  Troubleshoot application and infrastructure related incidents
    *  Execute automated tasks via scripting: including remediation and testing.
-   *  Problem analysis and remediation.
+   *  Prepare for planned changes.
 
 ## Addigy IT Automation Support Engineer   06/2019 - 10/2019
    *  Facilitated remote automation management of Apple devices for various companies via
@@ -108,9 +111,10 @@ calls.
 * Java
 * Python
 * Visual Basic
-* C
 * C++
-* Html
+* C
+* HTML
+* XML
 * PHP
 * SQL
 * CSS
